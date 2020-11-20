@@ -7,7 +7,6 @@ import {
   selectMessagesFilter
 } from 'features/messages/messagesSlice';
 import { MessageItem } from './MessageItem/MessageItem';
-import './MessagesList.scss';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import _ from 'lodash';
