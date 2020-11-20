@@ -86,13 +86,13 @@ __
 - Install as you would normally install MongoDB environment.
 - Make sure your database instance is running.
   
+  
 ### Server
 - Enter into to the "Server" folder from the command-line and run the command "npm install". 
 - Edit ".env" file inside the "Server" folder to connect your MongoDB database by changing the value of "DB_HOST" (your have an example in the file).
 - Run "npm start" to start running your server.
 
-__
-  
+
 ### Client
 
 - Enter into to the "Client" folder from the command-line and run the command "npm install". 
